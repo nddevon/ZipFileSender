@@ -1,0 +1,16 @@
+D:\Devon\Assignment\ZIP.DataStore\bin\Debug\netcoreapp2.1\ZIP.DataStore.deps.json
+D:\Devon\Assignment\ZIP.DataStore\bin\Debug\netcoreapp2.1\ZIP.DataStore.runtimeconfig.json
+D:\Devon\Assignment\ZIP.DataStore\bin\Debug\netcoreapp2.1\ZIP.DataStore.runtimeconfig.dev.json
+D:\Devon\Assignment\ZIP.DataStore\bin\Debug\netcoreapp2.1\ZIP.DataStore.dll
+D:\Devon\Assignment\ZIP.DataStore\bin\Debug\netcoreapp2.1\ZIP.DataStore.pdb
+D:\Devon\Assignment\ZIP.DataStore\bin\Debug\netcoreapp2.1\ZIP.DataModel.dll
+D:\Devon\Assignment\ZIP.DataStore\bin\Debug\netcoreapp2.1\ZIP.Utility.dll
+D:\Devon\Assignment\ZIP.DataStore\bin\Debug\netcoreapp2.1\ZIP.DataModel.pdb
+D:\Devon\Assignment\ZIP.DataStore\bin\Debug\netcoreapp2.1\ZIP.Utility.pdb
+D:\Devon\Assignment\ZIP.DataStore\obj\Debug\netcoreapp2.1\ZIP.DataStore.csprojAssemblyReference.cache
+D:\Devon\Assignment\ZIP.DataStore\obj\Debug\netcoreapp2.1\ZIP.DataStore.csproj.CoreCompileInputs.cache
+D:\Devon\Assignment\ZIP.DataStore\obj\Debug\netcoreapp2.1\ZIP.DataStore.AssemblyInfoInputs.cache
+D:\Devon\Assignment\ZIP.DataStore\obj\Debug\netcoreapp2.1\ZIP.DataStore.AssemblyInfo.cs
+D:\Devon\Assignment\ZIP.DataStore\obj\Debug\netcoreapp2.1\ZIP.DataStore.csproj.CopyComplete
+D:\Devon\Assignment\ZIP.DataStore\obj\Debug\netcoreapp2.1\ZIP.DataStore.dll
+D:\Devon\Assignment\ZIP.DataStore\obj\Debug\netcoreapp2.1\ZIP.DataStore.pdb

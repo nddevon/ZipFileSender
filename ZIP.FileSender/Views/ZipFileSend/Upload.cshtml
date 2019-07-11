@@ -1,0 +1,52 @@
+﻿@model IList<ZIP.FileSender.ViewModel.ZipFileViewModel>
+@{
+    ViewData["Title"] = "RenderFileList";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    input[type=text] {
+        width: 100%;
+        border: unset;
+    }
+</style>
+@using (Html.BeginForm("SaveZipFiles", "ZipFileSend", FormMethod.Post, new {
+    @class = "m-1 p-1",
+})) {
+    <div class="form-group">
+        <div class="col-md-10">
+            <input type="submit" value="Save Zip Files" class="btn btn-primary">
+        </div>
+    </div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Folder
+                </th>
+                <th>
+                    File Name
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (int i = 0; i < Model.Count(); i++) {
+                <tr>
+                    <td>
+                        @if (Model[i].IsFolder) {
+                            @Html.TextBoxFor(modelItem => Model[i].Name, new { @readonly = "readonly" });
+                            @Html.CheckBoxFor(modelItem => Model[i].IsFolder, new { @hidden = "hidden" });
+                        }
+                    </td>
+                    <td>
+                        @if (!Model[i].IsFolder) {
+                            @Html.TextBoxFor(modelItem => Model[i].Name, new { @readonly = "readonly" });
+                            @Html.CheckBoxFor(modelItem => Model[i].IsFolder, new { @hidden = "hidden" });
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+}

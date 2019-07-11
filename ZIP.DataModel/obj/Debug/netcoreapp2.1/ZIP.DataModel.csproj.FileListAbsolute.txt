@@ -1,0 +1,8 @@
+D:\Devon\Assignment\ZIP.DataModel\bin\Debug\netcoreapp2.1\ZIP.DataModel.deps.json
+D:\Devon\Assignment\ZIP.DataModel\bin\Debug\netcoreapp2.1\ZIP.DataModel.dll
+D:\Devon\Assignment\ZIP.DataModel\bin\Debug\netcoreapp2.1\ZIP.DataModel.pdb
+D:\Devon\Assignment\ZIP.DataModel\obj\Debug\netcoreapp2.1\ZIP.DataModel.csproj.CoreCompileInputs.cache
+D:\Devon\Assignment\ZIP.DataModel\obj\Debug\netcoreapp2.1\ZIP.DataModel.AssemblyInfoInputs.cache
+D:\Devon\Assignment\ZIP.DataModel\obj\Debug\netcoreapp2.1\ZIP.DataModel.AssemblyInfo.cs
+D:\Devon\Assignment\ZIP.DataModel\obj\Debug\netcoreapp2.1\ZIP.DataModel.dll
+D:\Devon\Assignment\ZIP.DataModel\obj\Debug\netcoreapp2.1\ZIP.DataModel.pdb

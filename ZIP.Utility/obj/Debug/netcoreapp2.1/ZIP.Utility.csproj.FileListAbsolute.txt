@@ -1,0 +1,8 @@
+D:\Devon\Assignment\ZIP.Utility\bin\Debug\netcoreapp2.1\ZIP.Utility.deps.json
+D:\Devon\Assignment\ZIP.Utility\bin\Debug\netcoreapp2.1\ZIP.Utility.dll
+D:\Devon\Assignment\ZIP.Utility\bin\Debug\netcoreapp2.1\ZIP.Utility.pdb
+D:\Devon\Assignment\ZIP.Utility\obj\Debug\netcoreapp2.1\ZIP.Utility.csproj.CoreCompileInputs.cache
+D:\Devon\Assignment\ZIP.Utility\obj\Debug\netcoreapp2.1\ZIP.Utility.AssemblyInfoInputs.cache
+D:\Devon\Assignment\ZIP.Utility\obj\Debug\netcoreapp2.1\ZIP.Utility.AssemblyInfo.cs
+D:\Devon\Assignment\ZIP.Utility\obj\Debug\netcoreapp2.1\ZIP.Utility.dll
+D:\Devon\Assignment\ZIP.Utility\obj\Debug\netcoreapp2.1\ZIP.Utility.pdb
